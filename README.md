@@ -1,5 +1,7 @@
 # Exercice python pour la rentrée Itescia
 
+
+
 # EX16: Distance entre deux mots.
 La distance de Hamming entre deux mots de même longueur est le nombre d’endroits où les lettres sont différentes.
 Par exemple : JAPON  SAVON
